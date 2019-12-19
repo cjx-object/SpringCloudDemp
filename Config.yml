@@ -9,7 +9,7 @@ server:
 spring:
   profiles: dev # 开发环境
   application:
-     name: microservice-config-dev
+     name: Cloud-Pvd
 
 --
 server:
@@ -17,4 +17,4 @@ server:
 spring:
    profiles: prod # 生产环境
    application:
-     name: microservice-config-prod
+     name: Cloud-Pvd
